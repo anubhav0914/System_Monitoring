@@ -7,7 +7,7 @@ export const analyticsService = {
       // The frontend will make a request to this relative path.
       // In development, you'll need to proxy this request to your C# backend.
       // In production, the API and frontend can be served under the same domain.
-      const response = await fetch('http://localhost:5154/api/Analytics');
+      const response = await fetch('https://system-monitoring-zjlj.onrender.com/api/Analytics');
 
       if (!response.ok) {
         // The App.tsx component will catch this error.
