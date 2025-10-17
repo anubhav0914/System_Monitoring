@@ -1,0 +1,602 @@
+[
+  {
+    "Timestamp": "2025-10-17T09:13:22.2359882Z",
+    "CpuUsedPercent": 0.0021874682356783524,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T09:13:37.2379262Z",
+    "CpuUsedPercent": 0.002435102051481615,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:13:52.2401401Z",
+    "CpuUsedPercent": 0.0018163985783458266,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:14:07.2416277Z",
+    "CpuUsedPercent": 0.0021422875422034814,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:14:22.2444002Z",
+    "CpuUsedPercent": 0.0020875308213865137,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:14:37.2469606Z",
+    "CpuUsedPercent": 0.002023821213877599,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T09:14:52.2497876Z",
+    "CpuUsedPercent": 0.0021700076925502106,
+    "MemoryUsedGb": 0.11832427978515625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:15:07.2531267Z",
+    "CpuUsedPercent": 0.004153242127280854,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:15:22.2553809Z",
+    "CpuUsedPercent": 0.0019030473433785705,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:15:37.2579016Z",
+    "CpuUsedPercent": 0.0019975809798416077,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:15:52.2600923Z",
+    "CpuUsedPercent": 0.001811818723248199,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:16:07.2619718Z",
+    "CpuUsedPercent": 0.003929924247158497,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:16:22.264298Z",
+    "CpuUsedPercent": 0.0017597271015210962,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:16:37.26712Z",
+    "CpuUsedPercent": 0.0020687774606670665,
+    "MemoryUsedGb": 0.11844635009765625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:16:52.2692452Z",
+    "CpuUsedPercent": 0.001834323446387449,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:17:07.2715538Z",
+    "CpuUsedPercent": 0.0025933508660127146,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:17:22.2744507Z",
+    "CpuUsedPercent": 0.0021462521681396077,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T09:17:37.2770572Z",
+    "CpuUsedPercent": 0.0019354970084698281,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:17:52.2795775Z",
+    "CpuUsedPercent": 0.0019996640164519556,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:18:07.282208Z",
+    "CpuUsedPercent": 0.0030015569602943964,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T09:18:22.2849316Z",
+    "CpuUsedPercent": 0.002053793752489048,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:18:37.288459Z",
+    "CpuUsedPercent": 0.0023569457406396313,
+    "MemoryUsedGb": 0.11856842041015625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:18:52.2910692Z",
+    "CpuUsedPercent": 0.0019913201504095602,
+    "MemoryUsedGb": 0.11869049072265625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T09:19:07.2956729Z",
+    "CpuUsedPercent": 0.004629412504910077,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:19:22.2986868Z",
+    "CpuUsedPercent": 0.0020774992416690355,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:19:37.3007361Z",
+    "CpuUsedPercent": 0.0017335131674310652,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:19:52.3019741Z",
+    "CpuUsedPercent": 0.0018523471196177277,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:20:07.3051532Z",
+    "CpuUsedPercent": 0.0027594151695489655,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:20:22.315287Z",
+    "CpuUsedPercent": 0.001835010291513857,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T09:20:37.3170105Z",
+    "CpuUsedPercent": 0.0021839157347487443,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:20:52.3191469Z",
+    "CpuUsedPercent": 0.0019218096163957023,
+    "MemoryUsedGb": 0.11881256103515625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:21:07.3233533Z",
+    "CpuUsedPercent": 0.004353779084244003,
+    "MemoryUsedGb": 0.11905670166015625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T09:21:22.3260079Z",
+    "CpuUsedPercent": 0.002207525993433189,
+    "MemoryUsedGb": 0.11905670166015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:21:37.3341054Z",
+    "CpuUsedPercent": 0.001859829335463739,
+    "MemoryUsedGb": 0.11905670166015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T09:21:52.3369016Z",
+    "CpuUsedPercent": 0.0021321025476570827,
+    "MemoryUsedGb": 0.11905670166015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T09:22:07.3388074Z",
+    "CpuUsedPercent": 0.008095638088862015,
+    "MemoryUsedGb": 0.11917877197265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:35:02.2102166Z",
+    "CpuUsedPercent": 4.2947174194926804E-06,
+    "MemoryUsedGb": 0.11917877197265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:35:17.2117329Z",
+    "CpuUsedPercent": 0.008265414476801921,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:35:32.2139155Z",
+    "CpuUsedPercent": 0.008336703620711828,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:35:47.2154124Z",
+    "CpuUsedPercent": 0.0034875686305677936,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:36:02.2178586Z",
+    "CpuUsedPercent": 0.003706478880757459,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:36:17.2210742Z",
+    "CpuUsedPercent": 0.007608785545946564,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:36:32.2230227Z",
+    "CpuUsedPercent": 0.0027638076480531845,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:36:47.2254729Z",
+    "CpuUsedPercent": 0.005747811114213863,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:37:02.2281381Z",
+    "CpuUsedPercent": 0.0020546349324651997,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:37:17.2294928Z",
+    "CpuUsedPercent": 0.002161054827934973,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:37:32.230431Z",
+    "CpuUsedPercent": 0.0017648896120377323,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:37:47.2324351Z",
+    "CpuUsedPercent": 0.003983634426549716,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:38:02.2368994Z",
+    "CpuUsedPercent": 0.0031732222522599498,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:38:17.2396829Z",
+    "CpuUsedPercent": 0.002411635814114094,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:38:32.2433513Z",
+    "CpuUsedPercent": 0.0025185507299001625,
+    "MemoryUsedGb": 0.11954498291015625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:38:47.2447228Z",
+    "CpuUsedPercent": 0.01016948683658691,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:39:02.2475033Z",
+    "CpuUsedPercent": 0.0018988146897170161,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:39:17.2507853Z",
+    "CpuUsedPercent": 0.002452380085903871,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:39:32.2536664Z",
+    "CpuUsedPercent": 0.002406621085599352,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:39:47.2577215Z",
+    "CpuUsedPercent": 0.012182956459550726,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:40:02.2622757Z",
+    "CpuUsedPercent": 0.007752646193247113,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:40:17.2646668Z",
+    "CpuUsedPercent": 0.012646317426026843,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:40:32.2655239Z",
+    "CpuUsedPercent": 0.0031302378048784956,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:40:47.2677683Z",
+    "CpuUsedPercent": 0.004873437470462753,
+    "MemoryUsedGb": 0.11966705322265625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:41:02.2692389Z",
+    "CpuUsedPercent": 0.009949857849269791,
+    "MemoryUsedGb": 0.11978912353515625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:41:17.2707894Z",
+    "CpuUsedPercent": 0.12543911710992806,
+    "MemoryUsedGb": 0.12186431884765625,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:41:32.2729582Z",
+    "CpuUsedPercent": 0.004256884511258133,
+    "MemoryUsedGb": 0.12186431884765625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:41:47.2747785Z",
+    "CpuUsedPercent": 0.0029058973596690794,
+    "MemoryUsedGb": 0.12186431884765625,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:42:02.2763829Z",
+    "CpuUsedPercent": 0.0032334041550915716,
+    "MemoryUsedGb": 0.12186431884765625,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:42:17.2787598Z",
+    "CpuUsedPercent": 0.0031228384883464706,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:42:32.2810184Z",
+    "CpuUsedPercent": 0.00280749393294687,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:42:47.284599Z",
+    "CpuUsedPercent": 0.004329799781260215,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:43:02.28808Z",
+    "CpuUsedPercent": 0.003339225077167092,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:43:17.2894253Z",
+    "CpuUsedPercent": 0.003620091992682816,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:43:32.2913952Z",
+    "CpuUsedPercent": 0.0014056487341705707,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:43:47.293654Z",
+    "CpuUsedPercent": 0.002635019867808173,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:44:02.2978159Z",
+    "CpuUsedPercent": 0.0037756190833957877,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:44:17.2996108Z",
+    "CpuUsedPercent": 0.001578561109377652,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:44:32.3018254Z",
+    "CpuUsedPercent": 0.0017739047673668129,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:44:47.302701Z",
+    "CpuUsedPercent": 0.0025806826902824258,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:45:02.3134188Z",
+    "CpuUsedPercent": 0.002937068072787299,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:45:17.3179787Z",
+    "CpuUsedPercent": 0.003510182927791171,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:45:32.3209799Z",
+    "CpuUsedPercent": 0.0025474069814778125,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:45:47.3238656Z",
+    "CpuUsedPercent": 0.003452252522326422,
+    "MemoryUsedGb": 0.120361328125,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:46:02.3264089Z",
+    "CpuUsedPercent": 0.006125628046012706,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:46:17.3274331Z",
+    "CpuUsedPercent": 0.003520592947246895,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:46:32.3299371Z",
+    "CpuUsedPercent": 0.0032327936723096358,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:46:47.3318217Z",
+    "CpuUsedPercent": 0.0025746765176423232,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:47:02.3341513Z",
+    "CpuUsedPercent": 0.002595013643747702,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:47:17.3359878Z",
+    "CpuUsedPercent": 0.002304717825714205,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:47:32.3365214Z",
+    "CpuUsedPercent": 0.001852434102744185,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:47:47.3392141Z",
+    "CpuUsedPercent": 0.0018434190816959144,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:48:02.3410825Z",
+    "CpuUsedPercent": 0.0014073247036349153,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:48:17.3449494Z",
+    "CpuUsedPercent": 0.0028055267539063545,
+    "MemoryUsedGb": 0.1204833984375,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:48:32.3473306Z",
+    "CpuUsedPercent": 0.0032986430180830225,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:48:47.3486464Z",
+    "CpuUsedPercent": 0.0019123322502150111,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:49:02.3500367Z",
+    "CpuUsedPercent": 0.0013802887323050318,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:49:17.3520051Z",
+    "CpuUsedPercent": 0.0015502132373509067,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:49:32.354781Z",
+    "CpuUsedPercent": 0.0022112574513627175,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:49:47.3570932Z",
+    "CpuUsedPercent": 0.0030278665977901725,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  },
+  {
+    "Timestamp": "2025-10-17T15:50:02.359019Z",
+    "CpuUsedPercent": 0.0015985447681656976,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "No threats detected"
+  },
+  {
+    "Timestamp": "2025-10-17T15:50:17.3613468Z",
+    "CpuUsedPercent": 0.002214239712853095,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Security scan completed"
+  },
+  {
+    "Timestamp": "2025-10-17T15:50:32.3630766Z",
+    "CpuUsedPercent": 0.0016668911074508223,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Firewall block: Unauthorized outbound connection"
+  },
+  {
+    "Timestamp": "2025-10-17T15:50:47.3650089Z",
+    "CpuUsedPercent": 0.0020701499899449622,
+    "MemoryUsedGb": 0.12060546875,
+    "SecurityEvent": "Suspicious process found: malware.exe"
+  }
+]

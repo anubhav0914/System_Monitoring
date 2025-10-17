@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "r+zSgP0cGCeMZ9PvcqSsXKEL80IiXNT1JaGw7KwNijQ=",
+  "Source": "SystemMonitoring",
+  "BasePath": "_content/SystemMonitoring",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

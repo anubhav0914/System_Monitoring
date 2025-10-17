@@ -1,0 +1,5 @@
+
+{
+  "name": "PC Protection Dashboard",
+  "description": "A dashboard to monitor PC protection service metrics, including CPU utilization, memory usage, and security events. It displays real-time status and historical data through charts and tables."
+}
