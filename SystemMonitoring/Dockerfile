@@ -15,4 +15,4 @@ COPY --from=build /app/publish .
 
 EXPOSE 5000
 
-ENTRYPOINT ["dotnet", "YourBackend.dll"]
+ENTRYPOINT ["dotnet", "SystemMonitoring.dll"]
