@@ -21,7 +21,8 @@ public class AnalyticsController : ControllerBase
         }
 
         try
-        {
+        {   
+            // reading the data.json file
             var json = await System.IO.File.ReadAllTextAsync(DataFilePath);
             var entries = JsonSerializer.Deserialize<List<AnalyticsEntry>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
@@ -30,7 +31,7 @@ public class AnalyticsController : ControllerBase
                 return Ok(new List<AnalyticsEntry>());
             }
 
-            // Return the last 10 entries in descending order of timestamp (newest first)
+            // return the last 10 entries in descending order of timestamp (newest first)
             var latestEntries = entries.OrderByDescending(e => e.Timestamp).Take(10).ToList();
 
             return Ok(latestEntries);
